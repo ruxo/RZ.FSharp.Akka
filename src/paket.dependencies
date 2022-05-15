@@ -1,0 +1,6 @@
+source C:\Workspace\nuget
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Core
+nuget Akka
+nuget MinVer
